@@ -378,6 +378,7 @@ Next Planet of Monkeys
 Next Popular Module
 Next Prince Montage
 next() Packaged Middleware
+Next-gen Programming Model
 NeXTSTEP Programming Mastermind
 Nibble Plum Meringue
 Nibbling Pastry Monster
@@ -453,7 +454,7 @@ Nineteen Poor Moths
 Nineties Party Mix
 Nineties Pop Music
 Ninety Percent Muffin
-Ninety-nine Pitchers of Malt
+Ninetynine Pitchers of Malt
 Ninja Parading Musically
 Ninja Party Manager
 Ninja Pirate Marksman
